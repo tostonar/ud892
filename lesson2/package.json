@@ -1,0 +1,28 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tostonar/ud891.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tostonar/ud891/issues"
+  },
+  "homepage": "https://github.com/tostonar/ud891#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
