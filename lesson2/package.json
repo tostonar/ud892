@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/tostonar/ud891#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp-sass": "4.0.1"
   }
 }
